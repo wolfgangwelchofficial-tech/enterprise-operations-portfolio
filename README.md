@@ -17,9 +17,9 @@ The work demonstrated here spans:
 - Strategic partnership leverage
 - Multi-location replication modeling
 
-The objective of this portfolio is not to showcase operational activity.
+This is not a collection of operational anecdotes.
 
-It is to demonstrate systems built, enforced, and scaled.
+It is a structured body of engineered systems.
 
 ---
 
@@ -36,145 +36,125 @@ Across every organization represented in this portfolio, the methodology remaine
 5. Institutionalize cadence-driven review structures.
 6. Elevate standards continuously.
 
-Scale is not achieved through effort.
-It is achieved through structure.
+Scale is achieved through structure — not effort.
 
 ---
 
-## Enterprise System Domains
-
-### 1. Data & Governance Architecture
-
-- KPI instrumentation & metric standardization
-- Escalation threshold logic
-- Regional comparability modeling
-- Executive performance dashboards
-- Structured performance review cadence
+# Portfolio Architecture & Linked Projects
 
 ---
 
-### 2. Multi-Unit Expansion & Replication Engineering
+## I. Data & Governance Architecture
 
-- Parallel rollout architecture
-- Dependency mapping & gating logic
-- Replicable operating playbooks
-- Expansion qualification frameworks
-- Cross-location benchmark elevation
+### 1️⃣ Performance Instrumentation & BI Architecture  
+KPI modeling, ETL design, metric standardization, executive dashboards.
 
----
-
-### 3. Capital Deployment & Systems Integration
-
-- Owner-funded capital allocation strategy
-- Multi-system integration architecture (transactional, labor, compliance, CRM)
-- Reporting automation & visibility instrumentation
-- Risk-managed launch sequencing
-- Regulatory approval dependency control
+🔗 **Repository:**  
+https://github.com/wolfgangwelchofficial-tech/Project-1-btca-bi-architecture-etl-pipline
 
 ---
 
-### 4. Cross-Functional Stabilization & Organizational Realignment
+### 2️⃣ Revenue Acceleration & Product Mix Engineering  
+Revenue modeling, product performance optimization, contribution analysis, commercial strategy instrumentation.
 
-- Visibility board governance frameworks
-- Interdepartmental accountability architecture
-- Workflow standardization
-- Activation request control systems
-- Executive reporting feedback loops
+🔗 **Repository:**  
+https://github.com/wolfgangwelchofficial-tech/Project-2-btca-revenue-acceleration-product-mix-model
 
 ---
 
-### 5. Commercial Performance Optimization
+## II. Expansion & Replication Systems
 
-- Location-level revenue uplift modeling (+15% baseline engineering)
-- Incremental activation ROI thresholds (+25% / +50%)
-- Strategic partnership capital activation
-- Phased labor-to-revenue optimization
-- Performance governance cadence enforcement
+### 3️⃣ Enterprise Scaling & Orchestration Framework  
+Parallel multi-site expansion modeling, dependency mapping, rollout sequencing.
 
----
-
-## Portfolio Projects
-
-### Data & Governance Architecture
-
-**1. Performance Instrumentation & KPI Architecture**  
-Design of structured reporting systems, metric dictionaries, and executive dashboards used to standardize multi-location performance measurement.
-
-**2. Governance Enforcement & Escalation Modeling**  
-Threshold-based enforcement frameworks ensuring KPI discipline, regional comparability, and controlled expansion qualification.
+🔗 **Repository:**  
+https://github.com/wolfgangwelchofficial-tech/Project-3-enterprise-scaling-orchestation-framework
 
 ---
 
-### Expansion & Replication Systems
+### 4️⃣ Multi-Location Replication Engine  
+Playbook governance, role clarity matrices, expansion trigger logic, cross-site performance comparability.
 
-**3. Parallel Multi-Site Expansion Architecture**  
-12-week expansion sequencing model managing dependencies, regulatory gating, vendor coordination, and phased rollout execution.
-
-**4. Enterprise Replication & Playbook Governance**  
-Formalized role clarity matrices, expansion trigger logic, and enforceable replication standards across distributed locations.
+🔗 **Repository:**  
+https://github.com/wolfgangwelchofficial-tech/Project-4-multi-location-replication-engine
 
 ---
 
-### Capital Deployment & Launch Engineering
+## III. Capital Deployment & Launch Engineering
 
-**5. Capital Deployment & Systems Architecture**  
-$500,000 owner-funded capital strategy executed with integrated transactional systems, reporting automation, and commercial instrumentation from day one.
+### 5️⃣ Capital Deployment & Infrastructure Architecture  
+Owner-funded capital allocation, systems integration, transactional instrumentation, reporting architecture.
 
-**6. Regulatory Gating & Program Sequencing**  
-Structured dependency management across multi-agency approvals, risk mitigation modeling, and timeline-controlled launch execution.
-
----
-
-### Organizational Stabilization & Commercial Acceleration
-
-**7. Cross-Functional Visibility & Workflow Realignment**  
-Implementation of structured visibility boards, activation request frameworks, and interdepartmental execution governance.
-
-**8. Commercial Performance & Partnership Engineering**  
-Revenue uplift modeling, vendor-funded capital activation loops, incremental ROI thresholds, phased labor optimization, and layered governance cadence systems.
+🔗 **Repository:**  
+https://github.com/wolfgangwelchofficial-tech/Project-5-capital-deployment-infrastructure-architecture
 
 ---
 
-## Capability Matrix
+### 6️⃣ Program Management & Launch Orchestration Architecture  
+Regulatory gating, dependency sequencing, Gantt-based execution control, launch risk mitigation.
 
-This portfolio demonstrates structured capability in:
-
-- Enterprise operations architecture
-- Commercial revenue engineering
-- Multi-location scaling
-- Capital sequencing & deployment
-- Performance governance enforcement
-- Partnership negotiation & leverage modeling
-- Systems integration architecture
-- Organizational transformation
-- Executive reporting cadence design
+🔗 **Repository:**  
+https://github.com/wolfgangwelchofficial-tech/Project-6-program-management—-lauch-orchestration-architecture
 
 ---
 
-## Industry Applicability
+## IV. Organizational Stabilization & Commercial Optimization
+
+### 7️⃣ Cross-Functional Stabilization Framework  
+Visibility boards, workflow governance, activation request systems, interdepartmental accountability architecture.
+
+🔗 **Repository:**  
+https://github.com/wolfgangwelchofficial-tech/Project-7-can-cross-funtional-stabilization-framework
+
+---
+
+### 8️⃣ Commercial Performance Optimization Framework  
+Revenue uplift modeling, vendor-funded capital activation, incremental ROI thresholds, phased labor tuning, governance cadence architecture.
+
+🔗 **Repository:**  
+https://github.com/wolfgangwelchofficial-tech/Project-8-can-revenue-optimization-framework
+
+---
+
+# Capability Matrix
+
+This portfolio demonstrates structured expertise in:
+
+- Enterprise operations architecture  
+- Commercial revenue engineering  
+- Multi-unit scaling  
+- Capital sequencing & deployment  
+- Governance enforcement systems  
+- Partnership leverage modeling  
+- Cross-functional transformation  
+- Systems integration architecture  
+- Executive performance cadence design  
+
+---
+
+# Industry Applicability
 
 The systems represented here are transferable across:
 
-- Technology & SaaS Operations
-- Platform & Marketplace Environments
-- Multi-Unit Enterprise Organizations
-- Regulated Commercial Operations
-- Growth-Stage Enterprises
+- Technology & SaaS Operations  
+- Platform & Marketplace Environments  
+- Multi-Unit Enterprise Organizations  
+- Regulated Commercial Operations  
+- Growth-Stage Enterprises  
 
-The environments varied.
-
+The environment varied.  
 The operating discipline did not.
 
 ---
 
-## Closing Statement
+# Closing Statement
 
 I build operating systems inside complex organizations.
 
-I instrument performance.
-I enforce structure.
-I deploy capital intentionally.
-I engineer commercial acceleration.
+I instrument performance.  
+I enforce structure.  
+I deploy capital intentionally.  
+I engineer commercial acceleration.  
 I elevate standards continuously.
 
-This portfolio reflects engineered systems — not anecdotal outcomes.
+This portfolio reflects engineered systems — not isolated outcomes.
