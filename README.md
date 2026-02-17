@@ -41,49 +41,32 @@ Each repository below represents a phase in that operating discipline.
 
 ## Portfolio Architecture
 
-The eight projects are grouped by strategic domain:
+The eight projects are grouped by enterprise system domain:
 
-### BI & Governance Architecture
-- KPI engineering
-- Metric standardization
-- Escalation logic
-- Revenue benchmarking
+### Data & Governance Architecture
+- KPI instrumentation & metric standardization
+- Executive reporting frameworks
+- Escalation logic design
+- Cross-location performance benchmarking
 
-### Multi-Location Replication & Expansion
-- 12-week parallel expansion modeling
-- Playbook architecture
-- Expansion trigger logic
-- Cross-site comparability
+### Multi-Unit Expansion & Replication Systems
+- Parallel rollout architecture
+- Dependency sequencing & regulatory gating
+- Replicable operating playbook design
+- Expansion trigger qualification modeling
 
-### Capital Deployment & Launch Engineering
-- $500,000 owner-funded remodel execution
-- Regulatory gating & licensing sequencing
-- Systems integration architecture (POS, payroll, inventory, CRM)
-- Event-driven launch strategy
+### Capital Deployment & Systems Integration
+- Owner-funded capital allocation strategy
+- Multi-system integration (transactional, labor, inventory, CRM)
+- Reporting automation architecture
+- Launch-phase risk containment
 
 ### Cross-Functional Stabilization & Commercial Optimization
-- Departmental realignment
-- Vendor-backed funding leverage
-- 15% revenue uplift modeling
-- Phased labor optimization
-- Activation ROI thresholds
-
----
-
-## Project Index
-
-### BT-California – Director of Operations & Business Strategy
-
-1. **BI & KPI Architecture**
-   - Data modeling
-   - Metric dictionary
-   - Governance enforcement
-   - Executive reporting structure
-
-2. **Governance & KPI Enforcement Model**
-   - Escalation thresholds
-   - Regional comparability
-   - Expansion qualification logic
+- Organizational realignment frameworks
+- Visibility board governance systems
+- Strategic partnership capital activation
+- Location-level revenue uplift engineering
+- Performance cadence enforcement
 
 ---
 
